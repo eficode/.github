@@ -9,8 +9,6 @@ We're Eficode, a team of 600+ DevOps and AI specialists working across 10 countr
 
 Whether you’re consolidating your toolchain, bringing AI into your workflows with GitHub Copilot, or scaling secure software delivery—we’ve got your back.
 
----
-
 ## Why work with us?
 
 - 🏆 **GitHub Channel Partner of the Year**  
@@ -24,8 +22,6 @@ Whether you’re consolidating your toolchain, bringing AI into your workflows w
 
 - 🔄 **Both Microsoft and GitHub partner**
   We were the first-ever GitHub partner, and know GitHub and Azure DevOps inside out.
-
----
 
 ## How do we actually help with GitHub
 
@@ -42,7 +38,6 @@ Copilot unlocks AI—but we make it stick. We help you adopt AI-driven software 
 - ROI dashboards and KPI tracking  
 - Scalable foundations for AI-powered development 
 
-
 ### 🔐 Built-in security with GHAS  
 We integrate GitHub Advanced Security into your workflows for a secure-by-default setup:
 - CodeQL, secret scanning, and Dependabot, all tuned to your needs  
@@ -50,8 +45,6 @@ We integrate GitHub Advanced Security into your workflows for a secure-by-defaul
 
 ### 🎓 GitHub training & certifications  
 We run training and certification programs for GitHub Actions, Advanced Security, Admin, and more, so your teams grow as fast as your tech.
-
----
 
 ## 📫 Get in touch
 
